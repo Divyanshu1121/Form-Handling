@@ -39,7 +39,7 @@ This project is a simple authentication system built with React, featuring Login
    ```
 3. Run the development server:
    ```sh
-   npm start
+   npm run dev
    ```
 
 ## Usage
